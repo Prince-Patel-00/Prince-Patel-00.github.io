@@ -20,7 +20,7 @@ p {
 }
 
 #p1 {
-  background-color: #d59898;
+  background-color: #d28383;
   position: absolute;
   top: 0;
   right: 0;
@@ -32,7 +32,7 @@ p {
   font-family: Arial, Helvetica, sans-serif;
 }
 #p2 {
-  background-color: #c14543;
+  background-color: #c5403d;
   color: white;
   position: absolute;
   top: 0;
@@ -45,7 +45,7 @@ p {
   font-family: Arial, Helvetica, sans-serif;
 }
 #p3 {
-  background-color: #e5d198;
+  background-color: #dec57f;
   position: absolute;
   top: 0;
   right: 0;
